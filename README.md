@@ -1,4 +1,6 @@
 # HR Salary Process – Power BI Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=flat-square&logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=postgresql)
 
 This project showcases an interactive **Human Resources dashboard** built in **Power BI** to analyze employee data such as salary, sick days, work balance, and demographic distribution. It is designed to help HR teams quickly understand key metrics, identify trends, and make data-driven decisions.
 
@@ -48,13 +50,13 @@ This dashboard is intended for HR departments to:
 ## 📸 Sample Visuals
 
 ### Average Report Tab
-![Average Report](Average Report.jpg)
+![Average Report](Report-Images/Average Report.jpg)
 
 ### Business Unit / Region Report
-![Business Unit / Region Report](Business unit Region.jpg)
+![Business Unit / Region Report](Report-Images/Business unit / Region Report.jpg)
 
 ### Salary & Employees
-![Salary & Employees](Salary-Employees.jpg)
+![Salary & Employees](Report-Images/Salary & Employees.jpg)
 
 ## 📬 Contact
 
