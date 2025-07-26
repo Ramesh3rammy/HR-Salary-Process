@@ -50,13 +50,13 @@ This dashboard is intended for HR departments to:
 ## 📸 Sample Visuals
 
 ### Salary & Employees
-![Salary & Employees](Report-Images/Salary-Employees.jpg)
+![Salary & Employees](Report-Images/1Salary-Employees.jpg)
 
 ### Average Report Tab
-![Average Report](Report-Images/AverageReport.jpg)
+![Average Report](Report-Images/2Average-Report.jpg)
 
 ### Business Unit / Region Report
-![Business Unit / Region Report](Report-Images/BusinessunitRegion.jpg)
+![Business Unit / Region Report](Report-Images/3Business-unit-Region.jpg)
 
 ## 📬 Contact
 
